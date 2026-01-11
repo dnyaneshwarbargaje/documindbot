@@ -1,0 +1,5 @@
+{
+  "name": "Intuitive DocAssistant",
+  "description": "An intelligent virtual assistant capable of parsing, comprehending, and referencing documentation to answer complex user queries with contextual relevance.",
+  "requestFramePermissions": []
+}
